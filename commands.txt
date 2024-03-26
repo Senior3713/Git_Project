@@ -1,0 +1,12 @@
+python3 -m venv venv
+. venv/bin/activate
+rm -rf venv
+sudo apt install python3.10-venv
+
+
+pip install aiogram
+pip install python-dotenv
+pip install Babel
+pip install aiogram[i18n]
+
+

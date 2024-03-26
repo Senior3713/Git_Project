@@ -1,0 +1,1 @@
+print("salom {name}".format(name='Botir'))

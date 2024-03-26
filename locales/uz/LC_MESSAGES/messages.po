@@ -1,0 +1,94 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-03-19 10:41+0500\n"
+"PO-Revision-Date: 2024-03-09 09:58+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: bot/utils.py:18
+msgid "🔹 Title"
+msgstr ""
+
+#: bot/utils.py:20
+msgid "✍🏻Author"
+msgstr ""
+
+#: bot/utils.py:22
+msgid "🟤 Genre"
+msgstr ""
+
+#: bot/utils.py:24
+msgid "📑 Page"
+msgstr ""
+
+#: bot/utils.py:26
+msgid "📕 Vol"
+msgstr ""
+
+#: bot/utils.py:28
+msgid "📖 About"
+msgstr ""
+
+#: bot/utils.py:30
+msgid "💸 Price"
+msgstr ""
+
+#: bot/buttons/inline.py:21
+msgid "🔎 Search"
+msgstr ""
+
+#: bot/buttons/inline.py:29
+msgid "◀️Back"
+msgstr ""
+
+#: bot/buttons/reply.py:9
+msgid "📚 books"
+msgstr ""
+
+#: bot/buttons/reply.py:10
+msgid "📄 My Orders"
+msgstr ""
+
+#: bot/buttons/reply.py:11 bot/handlers/start.py:40
+msgid "🔵 Our Network"
+msgstr ""
+
+#: bot/buttons/reply.py:12
+msgid "📞 Contact us"
+msgstr ""
+
+#: bot/buttons/reply.py:21
+msgid "🇺🇿 uzbek"
+msgstr "🇺🇿 o'zbek tili"
+
+#: bot/buttons/reply.py:22
+msgid "🇬🇧 english"
+msgstr "🇬🇧 eng tili"
+
+#: bot/handlers/start.py:34
+msgid "Hello "
+msgstr "Salom "
+
+#: bot/handlers/private/book.py:14 bot/handlers/private/book.py:25
+msgid "Choose one of the categories"
+msgstr ""
+
+#~ msgid "Change language"
+#~ msgstr "Tilni tanlang"
+
+#~ msgid "Salom "
+#~ msgstr ""
+
